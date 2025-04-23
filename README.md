@@ -1,1 +1,2 @@
 # Library-Management-System
+This C-based Library Management System is a simple console application for managing books and student borrowings in a library. It allows the user to add, view, search, issue, return, and delete books, as well as track students who have borrowed books. The system uses arrays to store book and student information during runtime, making it suitable for small-scale use or learning purposes. It features a menu-driven interface, ensuring easy navigation and operation for users.
